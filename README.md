@@ -15,9 +15,7 @@ Develop makteplace system. In this system is possible to register products, buy 
 
 ### Files :page_with_curl:
 
-[``models/product.py``](models\product.py) 
-
-Class Product. Includes all functions and methods used to create a product type object.
+[``models/product.py``](models\product.py) Class Product. Includes all functions and methods used to create a product type object.
 
 [``helper.py``](utils\helper.py)
 Function used to convert the price for currency format of the product.
